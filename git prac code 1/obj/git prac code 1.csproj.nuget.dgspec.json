@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ryzen\\Desktop\\git prac\\git prac code 1\\git prac code 1.csproj": {}
+    "C:\\Users\\Ryzen\\Documents\\GitHub\\git-practice\\git prac code 1\\git prac code 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ryzen\\Desktop\\git prac\\git prac code 1\\git prac code 1.csproj": {
+    "C:\\Users\\Ryzen\\Documents\\GitHub\\git-practice\\git prac code 1\\git prac code 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ryzen\\Desktop\\git prac\\git prac code 1\\git prac code 1.csproj",
+        "projectUniqueName": "C:\\Users\\Ryzen\\Documents\\GitHub\\git-practice\\git prac code 1\\git prac code 1.csproj",
         "projectName": "git prac code 1",
-        "projectPath": "C:\\Users\\Ryzen\\Desktop\\git prac\\git prac code 1\\git prac code 1.csproj",
+        "projectPath": "C:\\Users\\Ryzen\\Documents\\GitHub\\git-practice\\git prac code 1\\git prac code 1.csproj",
         "packagesPath": "C:\\Users\\Ryzen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ryzen\\Desktop\\git prac\\git prac code 1\\obj\\",
+        "outputPath": "C:\\Users\\Ryzen\\Documents\\GitHub\\git-practice\\git prac code 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ryzen\\AppData\\Roaming\\NuGet\\NuGet.Config",
