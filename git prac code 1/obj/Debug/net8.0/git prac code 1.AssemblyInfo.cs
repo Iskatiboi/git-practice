@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("git prac code 1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8df6d8bd0c9ec46cd1e09096a2bf8cbe0ad9d0e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b8adfa92aa89fe5cff4a30ecd1581d6b84402a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("git prac code 1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("git prac code 1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
